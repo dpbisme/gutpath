@@ -20,6 +20,4 @@ Clicking the button below will lauch a custom instance of CELLXGENE (using the V
 </html>
 
 
-You can view a short tutorial on using this resource **[here]()**
-
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+Check back soon for a video tutorial on using this resource
