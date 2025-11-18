@@ -1,0 +1,21 @@
+[
+  
+    {
+      "title"    : "Explore ileum CITE-seq data",
+      "category" : "",
+      "tags"     : "Mouse, CITEs-seq, and 10X",
+      "url"      : "/ileum_CITE-seq",
+      "date"     : "Nov 15, 2024",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 grid__post animate'> <div class='article__inner'><a class='article__image' href='/ileum_CITE-seq'> <img src='/images/ileum_umap.png' alt='Explore ileum CITE-seq data'> </a><div class='article__content'> <div class='article__meta'> <span class='article__minutes'>1 min read <time class='article__date' datetime='2024-11-15T07:01:35-05:00'>Nov 15, 2024</time> </span> </div><h2 class='article__title'>Explore ileum CITE-seq data</h2> <p class='article__excerpt'>Over 320,000 cells from the epithelium and lamina propria of the distal small intestine of mice</p><div class='article__bottom'><div class='article__author'> <a href='/about/' aria-label='MIST Consortium'><img class='article__author-image' src='/images/mist_little.png' alt='MIST Consortium's Picture'></a> </div><div class='article__bottom-meta'><a href='/about/' class='article__author-link'>MIST Consortium</a><span> in </span> <span class='article-tags'> <a href='/tags/?tag=mouse' class='article__tag'>Mouse</a>  <a href='/tags/?tag=cites-seq' class='article__tag'>CITEs-seq</a>  <a href='/tags/?tag=10x' class='article__tag'>10X</a> </span></div></div></div></div></div>"
+    } ,
+  
+    {
+      "title"    : "Explore lymph node CITE-seq data",
+      "category" : "",
+      "tags"     : "Mouse, CITEs-seq, and 10X",
+      "url"      : "/MLN_CITE-seq",
+      "date"     : "Nov 12, 2024",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 grid__post animate'> <div class='article__inner'><a class='article__image' href='/MLN_CITE-seq'> <img src='/images/mln_umap.png' alt='Explore lymph node CITE-seq data'> </a><div class='article__content'> <div class='article__meta'> <span class='article__minutes'>1 min read <time class='article__date' datetime='2024-11-12T07:01:35-05:00'>Nov 12, 2024</time> </span> </div><h2 class='article__title'>Explore lymph node CITE-seq data</h2> <p class='article__excerpt'>Over 180,000 cells from the messenteric lymph node draining the distal small intestine of mice</p><div class='article__bottom'><div class='article__author'> <a href='/about/' aria-label='MIST Consortium'><img class='article__author-image' src='/images/mist_little.png' alt='MIST Consortium's Picture'></a> </div><div class='article__bottom-meta'><a href='/about/' class='article__author-link'>MIST Consortium</a><span> in </span> <span class='article-tags'> <a href='/tags/?tag=mouse' class='article__tag'>Mouse</a>  <a href='/tags/?tag=cites-seq' class='article__tag'>CITEs-seq</a>  <a href='/tags/?tag=10x' class='article__tag'>10X</a> </span></div></div></div></div></div>"
+    } 
+  
+]

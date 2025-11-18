@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GutPath Atlas</title>
+    <description>Norlin – A Beautiful Dark Blog Theme for Jekyll.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 17 Nov 2025 23:57:27 -0500</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 23:57:27 -0500</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Explore ileum CITE-seq data</title>
+        <description>&lt;p&gt;This dataset contains over 320,000 cells belonging to at least 91 unique cell types or states isolated from the epithelial layer and laminia propria of the distal small intestine of C57BL6 mice.  All mice were derived from the same commercial provider (Jackson Laboratories) and the same breeding room.  See our &lt;strong&gt;&lt;a href=&quot;&quot;&gt;About&lt;/a&gt;&lt;/strong&gt; page for more details on the study and methods used.&lt;/p&gt;
+
+&lt;p&gt;Clicking the button below will lauch a custom instance of CELLXGENE (using the VIP tool).  &lt;em&gt;Note cell numbers have been downsampled to streamline web-based viewing and analysis.&lt;/em&gt;&lt;/p&gt;
+
+&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;&lt;a href=&quot;http://52.23.19.34:6904/&quot; target=&quot;_blank&quot;&gt;
+&lt;center&gt;&lt;img src=&quot;/images/launchButton.png&quot; alt=&quot;http://52.23.19.34:6904/&quot; width=&quot;300&quot; height=&quot;132&quot; /&gt;
+&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;You can view a short tutorial on using this resource &lt;strong&gt;&lt;a href=&quot;&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/QyQ85DEVpbc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Nov 2024 07:01:35 -0500</pubDate>
+        <link>http://localhost:4000/ileum_CITE-seq</link>
+        <guid isPermaLink="true">http://localhost:4000/ileum_CITE-seq</guid>
+        
+        <category>Mouse</category>
+        
+        <category>CITEs-seq</category>
+        
+        <category>10X</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Explore lymph node CITE-seq data</title>
+        <description>&lt;p&gt;This dataset contains over 180,000 cells belonging to at least 49 unique cell types or states isolated from the messenteric lymph node (MLN) that drains the distal small intestine.  All cells were derived from C57BL6 mice obtained from the same commercial provider (Jackson Laboratories) and the same breeding room.  See our &lt;strong&gt;&lt;a href=&quot;&quot;&gt;About&lt;/a&gt;&lt;/strong&gt; page for more details on the study and methods used.&lt;/p&gt;
+
+&lt;p&gt;Clicking the button below will lauch a custom instance of &lt;a href=&quot;&quot;&gt;CELLXGENE&lt;/a&gt; (using the &lt;a href=&quot;&quot;&gt;VIP tool&lt;/a&gt;).  &lt;em&gt;Note cell numbers have been downsampled to streamline web-based viewing and analysis.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You can view a short tutorial on using this resource &lt;strong&gt;&lt;a href=&quot;&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;&lt;a href=&quot;http://52.23.19.34:6905/&quot; target=&quot;_blank&quot;&gt;
+&lt;center&gt;&lt;img src=&quot;/images/launchButton.png&quot; alt=&quot;http://52.23.19.34:6905/&quot; width=&quot;300&quot; height=&quot;132&quot; /&gt;
+&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;You can view a short tutorial on using this resource &lt;strong&gt;&lt;a href=&quot;&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/QyQ85DEVpbc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Nov 2024 07:01:35 -0500</pubDate>
+        <link>http://localhost:4000/MLN_CITE-seq</link>
+        <guid isPermaLink="true">http://localhost:4000/MLN_CITE-seq</guid>
+        
+        <category>Mouse</category>
+        
+        <category>CITEs-seq</category>
+        
+        <category>10X</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
