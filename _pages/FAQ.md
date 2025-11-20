@@ -40,7 +40,9 @@ GutPath was created using carefully controlled mouse studies in which all experi
 
 ## How do I access the data?
 
-You came to the right place!  Just navigate back to the homepage by clicking on 'GUTPATH' in the upperleft of your browser.  Each dataset is represented by a single card.  Clicking on any card brings up a page that has a brief description and large "click here.." button.  When you click the button you will launch a data exploration tool in a separate tab of your browser.  This tool contains a single dataset loaded into the popular CELLXGENE software, which lets you carry out fairly detailed exploration and analysis.
+You came to the right place!  Just navigate back to the homepage by clicking on 'GUTPATH' in the upperleft of your browser.  Each dataset is represented by a single card.  Clicking on any card brings up a page that has a brief description and large "click here..." button.  When you click the button you will launch a data exploration tool in a separate tab of your browser.  This tool contains a single dataset loaded into the popular CELLXGENE software, which lets you carry out fairly detailed exploration and analysis. 
+
+In addition to our CELLXGENE implementation, on each dataset page you will also find a link to download a Seurat object that can be direclty loaded into your R environment.  This allows you to use our cell type labels to annotate your own single cell or spatial transcriptomic data.
 
 ## What about raw data and code?
 
