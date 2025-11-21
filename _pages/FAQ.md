@@ -30,11 +30,16 @@ Six pathogens were selected to represent a phylogenetically diverse group of mic
 * the commensal fungus, *Candida albicans* 
 * Murine Norovirus
 
-Notably, these pathogens elicit distinct mucosal immune responses
+Notably, these pathogens elicit distinct mucosal immune responses, which means that our atlas includes an incredibly diverse array of cell types and states.
 
 ![Experimental design for GutPath]({{site.baseurl}}/images/design.png)
 
-## How were mice selected?
+## What technologies and reagents were used to generate GutPath?
+
+All single cell transcriptomic data was produced using the 10X Genomics platform (Chromium X device) and the 3' v4 GEM-X kit with feature barcoding, together with the BioLegend TotalSeq-B Universal Cocktail for mouse (~100 antibodies to surface epitopes; see full list [here](https://www.biolegend.com/nl-be/products/totalseq-b-mouse-universal-cocktail-v1-0-22726))
+
+
+## What mice were used for the infections?
 
 GutPath was created using carefully controlled mouse studies in which all experiments were carried out in 6-10 week-old female mice sourced from The Jackson Laboratories.  All mice were obtained from room EM03, which generates animals free of Segmented Filamentous Bacteria (SFB). Mice were maintained in the same room at the Veterinary School at the University of Pennsylvania.  Infections were all carried out by oral gavage, except for Nippostrongylus brasiliensis, which was introduced subcutaenously.  
 
