@@ -8,6 +8,8 @@ tags:   [Mouse, CITEs-seq, 10X]
 ---
 This dataset contains over 320,000 cells belonging to at least 91 unique cell types or states isolated from the epithelial layer and laminia propria of the distal small intestine of C57BL6 mice.  All mice were derived from the same commercial provider (Jackson Laboratories) and the same breeding room.  See our **[FAQ]()** page for more details on the study and methods used.  
 
+**[Download the full dataset](https://penno365-my.sharepoint.com/:u:/g/personal/beiting_upenn_edu/IQD82JALtfgsT5QrNRdDD3AKAQ0qcsKsO4QJpI88f78tDC4?e=2Y2990)** with annotations as a Seurat object.
+
 Clicking the button below will lauch a custom instance of CELLXGENE (using the VIP tool).  *Note cell numbers have been downsampled to streamline web-based viewing and analysis.*  
 
 

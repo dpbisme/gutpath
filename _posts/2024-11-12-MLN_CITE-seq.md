@@ -9,6 +9,8 @@ tags:   [Mouse, CITEs-seq, 10X]
 
 This dataset contains over 180,000 cells belonging to at least 49 unique cell types or states isolated from the messenteric lymph node (MLN) that drains the distal small intestine.  All cells were derived from C57BL6 mice obtained from the same commercial provider (Jackson Laboratories) and the same breeding room.  See our **[FAQ]()** page for more details on the study and methods used.  
 
+**[Download the full dataset](https://penno365-my.sharepoint.com/:u:/g/personal/beiting_upenn_edu/IQCvKqvTA_tlTZ0f5mn_CHsuAVwE19EBcR6hzlTw84J1ho4?e=PKQvxU)** with annotations as a Seurat object.
+
 Clicking the button below will lauch a custom instance of [CELLXGENE]() (using the [VIP tool]()).  *Note cell numbers have been downsampled to streamline web-based viewing and analysis.*  
 
 You can view a short tutorial on using this resource **[here]()**

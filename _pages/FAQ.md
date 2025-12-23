@@ -15,6 +15,10 @@ The GutPath Atlas helps to advance this mission by providing researchers with co
 
 The GutPath project is led by Daniel Beiting, a scientist who participates in the MIST Consortium and is faculty member at the University of Pennsylvania.  All computational work to produce the atlas was carried out by Andrew Hart, PhD., with support from Rui Xiao, PhD.  All infections and mouse work was carried out at the University of Pennsylvania with support from MIST Consortium faculty and their lab members. 
 
+# How do I cite GutPath?
+
+Please cite our **[preprint on BioRxiv]()**
+
 ## How is this work funded?
 
 GutPath is funded through a grant to the MIST Consortium by the National Institutes of Allergy and Infectious Diseases (RFA-AI-15-023).
