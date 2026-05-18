@@ -69,4 +69,42 @@
       animation: spin .5s infinite linear;
     }
   }
+
+  &--launch {
+    padding: 24px 48px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: $brand-color;
+    box-shadow: 0 4px 15px rgba($brand-color, 0.3);
+    border-radius: 50px;
+    margin: 20px auto;
+    display: flex;
+    max-width: fit-content;
+
+    i {
+      margin-right: 12px;
+    }
+
+    &:hover {
+      background-color: $button-background-hover;
+      box-shadow: 0 6px 25px rgba($brand-color, 0.5);
+      transform: translateY(-2px);
+    }
+
+    animation: pulse 2s infinite;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba($brand-color, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba($brand-color, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba($brand-color, 0);
+  }
 }

@@ -14,13 +14,7 @@ This dataset contains over 450,000 cells from the epithelial layer and laminia p
 Clicking the button below will lauch a custom instance of CELLxGENE.  *NOTE: The dataset has not been downsampled for viewing in the browser.*
 
 
-<html>
-<body>
-<p><a href="http://35.168.119.210/GutPath_Ileum/" target="_blank">
-<center><img src="/images/launchButton.png" alt="http://35.168.119.210/GutPath_Ileum/" width="300" height="132">
-</center></a></p>
-</body>
-</html>
+<a href="http://35.168.119.210/GutPath_Ileum/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Exploration</a>
 
 
 You can view a short tutorial on using this resource **[here]()**

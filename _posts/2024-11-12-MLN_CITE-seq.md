@@ -13,12 +13,6 @@ This dataset contains over 260,000 cells belonging to at least 49 unique cell ty
 
 Clicking the button below will launch a custom instance of CELLxGENE.  *Note: cell numbers have been downsampled to ~62,000 cells to streamline web-based viewing and analysis.*  
 
-<html>
-<body>
-<p><a href="http://35.168.119.210/GutPath_MLN_NI/" target="_blank">
-<center><img src="/images/launchButton.png" alt="http://35.168.119.210/GutPath_MLN_NI/" width="300" height="132">
-</center></a></p>
-</body>
-</html>
+<a href="http://35.168.119.210/GutPath_MLN_NI/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Exploration</a>
 
 You can view a short tutorial on using this resource **[here]()**
