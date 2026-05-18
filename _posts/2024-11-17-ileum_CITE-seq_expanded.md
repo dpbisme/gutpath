@@ -16,7 +16,7 @@ Clicking the button below will lauch a custom instance of CELLxGENE.  *NOTE: The
 
 <html>
 <body>
-<p><a href="http://35.168.119.210/GutPath_Ileum_NI/" target="_blank">
+<p><a href="http://35.168.119.210/GutPath_Ileum/" target="_blank">
 <center><img src="/images/launchButton.png" alt="http://35.168.119.210/GutPath_Ileum/" width="300" height="132">
 </center></a></p>
 </body>
