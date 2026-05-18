@@ -13,6 +13,6 @@ This dataset contains over 260,000 cells from the messenteric lymph node (MLN) t
 
 Clicking the button below will launch a custom instance of CELLxGENE.  *Note: cell numbers have been downsampled to ~62,000 cells to streamline web-based viewing and analysis.*  
 
-<a href="http://35.168.119.210/GutPath_MLN/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Exploration</a>
+<a href="http://35.168.119.210/GutPath_MLN/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Explorer</a>
 
 You can view a short tutorial on using this resource **[here]()**

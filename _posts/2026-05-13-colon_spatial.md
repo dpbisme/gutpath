@@ -13,5 +13,5 @@ This Xenium spatial transcriptomics dataset includes over 333,000 cells in total
 Clicking the button below will lauch a custom instance of CELLxGENE.  *Note cell numbers have been downsampled to streamline web-based viewing and analysis.*   
 
 
-<a href="http://35.168.119.210/GutPath_Colon/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Exploration</a>
+<a href="http://35.168.119.210/GutPath_Colon/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Explorer</a>
 

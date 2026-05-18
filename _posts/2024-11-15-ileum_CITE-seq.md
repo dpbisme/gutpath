@@ -14,7 +14,7 @@ This dataset contains over 320,000 cells belonging to at least 91 unique cell ty
 Clicking the button below will lauch a custom instance of CELLxGENE.  *Note cell numbers have been downsampled to ~98,000 cells to streamline web-based viewing and analysis.*  
 
 
-<a href="http://35.168.119.210/GutPath_Ileum_NI/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Exploration</a>
+<a href="http://35.168.119.210/GutPath_Ileum_NI/" target="_blank" class="button button--launch"><i class="fa-solid fa-rocket"></i> Launch Dataset Explorer</a>
 
 
 You can view a short tutorial on using this resource **[here]()**
