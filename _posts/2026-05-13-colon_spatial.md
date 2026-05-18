@@ -2,7 +2,7 @@
 layout: post
 title:  ileum spatial
 description: Over 333,000 cells from the large intestine of mice
-date:   2024-11-15 15:01:35 +0300
+date:   2026-05-13 15:01:35 +0300
 image:  '/images/colon_spatial.png'
 tags:   [Mouse, spatial, 10X, Xenium]
 ---

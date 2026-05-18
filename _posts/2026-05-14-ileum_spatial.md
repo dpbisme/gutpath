@@ -2,7 +2,7 @@
 layout: post
 title:  ileum spatial
 description: Over 1.7M cells from the ileum and duodenum of mice
-date:   2024-11-15 15:01:35 +0300
+date:   2026-05-14 15:01:35 +0300
 image:  '/images/ileum_spatial.png'
 tags:   [Mouse, spatial, 10X, Xenium]
 ---
