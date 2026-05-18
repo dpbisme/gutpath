@@ -17,7 +17,7 @@ The GutPath project is led by Daniel Beiting, a scientist who participates in th
 
 # How do I cite GutPath?
 
-Please cite our **[preprint on BioRxiv]()**
+Please cite our **[preprint on BioRxiv](https://doi.org/10.64898/2025.12.22.695505 )**
 
 ## How is this work funded?
 
@@ -33,6 +33,7 @@ Six pathogens were selected to represent a phylogenetically diverse group of mic
 * the gram-positive commensal, Segmented Filamentous Bacterium (SFB)
 * the commensal fungus, *Candida albicans* 
 * Murine Norovirus
+* Naive (uninfected) mice were used as controls
 
 Notably, these pathogens elicit distinct mucosal immune responses, which means that our atlas includes an incredibly diverse array of cell types and states.
 
@@ -51,8 +52,8 @@ GutPath was created using carefully controlled mouse studies in which all experi
 
 You came to the right place!  Just navigate back to the homepage by clicking on 'GUTPATH' in the upperleft of your browser.  Each dataset is represented by a single card.  Clicking on any card brings up a page that has a brief description and large "click here..." button.  When you click the button you will launch a data exploration tool in a separate tab of your browser.  This tool contains a single dataset loaded into the popular CELLXGENE software, which lets you carry out fairly detailed exploration and analysis. 
 
-In addition to our CELLXGENE implementation, on each dataset page you will also find a link to download a Seurat object that can be direclty loaded into your R environment.  This allows you to use our cell type labels to annotate your own single cell or spatial transcriptomic data.
+In addition to our CELLXGENE implementation, on each dataset page you will also find a link to download a Seurat object containing the full annotated dataset that can be direclty loaded into your R environment.  This allows you to use our cell type labels to annotate your own single cell or spatial transcriptomic data.
 
 ## What about raw data and code?
 
-Yep, we've got those too!  You can find the [raw data on the SRA](), and all code is available in this [Github repository]().
+Yep, we've got those too!  You can find the [raw data on the SRA](https://www.ncbi.nlm.nih.gov/sra?term=PRJNA1378118), and all code is available in this [Github repository](https://github.com/hartandrew/GutPath).
