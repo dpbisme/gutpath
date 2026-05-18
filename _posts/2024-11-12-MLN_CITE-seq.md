@@ -1,26 +1,24 @@
 ---
 layout: post
-title:  Explore lymph node CITE-seq data
+title:  lymph node CITE-seq
 description: Over 180,000 cells from the messenteric lymph node draining the distal small intestine of mice
 date:   2024-11-12 15:01:35 +0300
 image:  '/images/mln_umap.png'
 tags:   [Mouse, CITEs-seq, 10X]
 ---
 
-This dataset contains over 180,000 cells belonging to at least 49 unique cell types or states isolated from the messenteric lymph node (MLN) that drains the distal small intestine.  All cells were derived from C57BL6 mice obtained from the same commercial provider (Jackson Laboratories) and the same breeding room.  See our **[FAQ]()** page for more details on the study and methods used.  
+This dataset contains over 260,000 cells belonging to at least 49 unique cell types or states isolated from the messenteric lymph node (MLN) that drains the distal small intestine.  All cells were derived from C57BL6 mice obtained from the same commercial provider (Jackson Laboratories) and the same breeding room.  This data set is included in [our recent bioRxiv preprint](https://doi.org/10.64898/2025.12.22.695505). 
 
-**[Download the full dataset](https://penno365-my.sharepoint.com/:u:/g/personal/beiting_upenn_edu/IQCvKqvTA_tlTZ0f5mn_CHsuAVwE19EBcR6hzlTw84J1ho4?e=PKQvxU)** with annotations as a Seurat object.
+**[Download the full dataset](https://penno365-my.sharepoint.com/:u:/g/personal/beiting_upenn_edu/IQCvKqvTA_tlTZ0f5mn_CHsuAVwE19EBcR6hzlTw84J1ho4?e=PKQvxU)** as a Seurat object, complete with annotations.
 
-Clicking the button below will lauch a custom instance of [CELLXGENE]() (using the [VIP tool]()).  *Note cell numbers have been downsampled to streamline web-based viewing and analysis.*  
-
-You can view a short tutorial on using this resource **[here]()**
+Clicking the button below will launch a custom instance of CELLxGENE.  *Note: cell numbers have been downsampled to ~62,000 cells to streamline web-based viewing and analysis.*  
 
 <html>
 <body>
-<p><a href="http://52.23.19.34:6905/" target="_blank">
-<center><img src="/images/launchButton.png" alt="http://52.23.19.34:6905/" width="300" height="132">
+<p><a href="http://35.168.119.210/GutPath_MLN_NI/" target="_blank">
+<center><img src="/images/launchButton.png" alt="http://35.168.119.210/GutPath_MLN_NI/" width="300" height="132">
 </center></a></p>
 </body>
 </html>
 
-Check back soon for a video tutorial on using this resource
+You can view a short tutorial on using this resource **[here]()**
