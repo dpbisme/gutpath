@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  lymph node CITE-seq (expanded)
-description: Same dataset as below but expanded to include over 260,000 cells
+description: Same dataset as immediately above, but expanded to include over 260,000 cells
 date:   2024-11-16 15:01:35 +0300
 image:  '/images/mln_umap_expanded.png'
 tags:   [Mouse, CITEs-seq, 10X]

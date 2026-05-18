@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ileum CITE-seq (expanded)
-description: Same dataset as below but expanded to include over 450,000 cells 
+description: Same dataset as immediately above, but expanded to include over 450,000 cells 
 date:   2024-11-17 15:01:35 +0300
 image:  '/images/ileum_umap_expanded.png'
 tags:   [Mouse, CITEs-seq, 10X]
